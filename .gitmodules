@@ -1,3 +1,6 @@
 [submodule "m1-utm-linux"]
 	path = m1-utm-linux
 	url = git@github.com:ahrex/m1-utm-linux.git
+[submodule "oauth-helper-office-365"]
+	path = oauth-helper-office-365
+	url = git@github.com:ahrex/oauth-helper-office-365.git
